@@ -33,7 +33,7 @@ python restauracao.py
 
 ---
 
-## 🧪 Requisitos
+## Requisitos
 
 - Python 3.7 ou superior
 - OpenCV
@@ -41,9 +41,9 @@ python restauracao.py
 
 ---
 
-## 🧼 Saída esperada
+##  Saída esperada
 
-Ao rodar o script, será exibida uma janela com as comparações entre os seguintes filtros aplicados:
+Ao rodar o script, será exibida uma janela com as comparações entre os seguintes filtros:
 
 - Imagem original com ruído
 - Filtro da mediana (5x5)
