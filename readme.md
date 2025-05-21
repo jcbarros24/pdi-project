@@ -8,7 +8,7 @@ Este projeto aplica filtros de restauração (mediana, gaussiano, bilateral e it
 ### 1. clonar o projeto 
 
 ```bash
-git clone <link-do-repositorio>
+git clone https://github.com/jcbarros24/pdi-project.git
 cd PDI
 ```
 
